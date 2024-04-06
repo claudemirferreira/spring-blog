@@ -8,4 +8,4 @@ WORKDIR /app
 COPY ./target/spring-blog.jar /app
 
 # Comando padrão para executar a aplicação quando o container for iniciado
-CMD ["java", "-jar", "blog.jar"]
+CMD ["java", "-jar", "spring-blog.jar"]
