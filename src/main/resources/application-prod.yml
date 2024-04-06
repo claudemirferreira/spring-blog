@@ -1,9 +1,9 @@
 spring:
   datasource:
-    url: jdbc:postgresql://${PGHOST}:${PGPORT}/${POSTGRES_DB}
-    username: ${POSTGRES_USER}
-    password: ${POSTGRES_PASSWORD}
-    name: ${POSTGRES_DB}
+    url: postgres://koyeb-adm:pJFkECuD6j5V@ep-broad-cell-a2j3sdae.eu-central-1.pg.koyeb.app/koyebdb
+    username: koyeb-adm
+    password: pJFkECuD6j5V
+    name: koyebdb
 
   sql:
     init:
