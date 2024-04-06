@@ -1,0 +1,9 @@
+dev/danvega/blog/model/Author.class
+dev/danvega/blog/model/json/AuthorDeserializer.class
+dev/danvega/blog/repository/AuthorRepository.class
+dev/danvega/blog/model/Comment.class
+dev/danvega/blog/model/dto/PostDetails.class
+dev/danvega/blog/Application.class
+dev/danvega/blog/repository/PostRepository.class
+dev/danvega/blog/model/Post.class
+dev/danvega/blog/controller/PostController.class

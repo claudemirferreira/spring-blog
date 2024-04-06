@@ -1,0 +1,5 @@
+dev/danvega/blog/controller/PostControllerTest.class
+dev/danvega/blog/repository/PostRepositoryTest.class
+dev/danvega/blog/controller/PostControllerTest$1.class
+dev/danvega/blog/repository/AuthorRepositoryTest.class
+dev/danvega/blog/TestDataLoader.class

@@ -1,0 +1,9 @@
+/home/claudemir/work/projects/7bit/microservices/spring-blog/src/main/java/dev/danvega/blog/model/Author.java
+/home/claudemir/work/projects/7bit/microservices/spring-blog/src/main/java/dev/danvega/blog/model/Post.java
+/home/claudemir/work/projects/7bit/microservices/spring-blog/src/main/java/dev/danvega/blog/controller/PostController.java
+/home/claudemir/work/projects/7bit/microservices/spring-blog/src/main/java/dev/danvega/blog/repository/PostRepository.java
+/home/claudemir/work/projects/7bit/microservices/spring-blog/src/main/java/dev/danvega/blog/model/Comment.java
+/home/claudemir/work/projects/7bit/microservices/spring-blog/src/main/java/dev/danvega/blog/model/json/AuthorDeserializer.java
+/home/claudemir/work/projects/7bit/microservices/spring-blog/src/main/java/dev/danvega/blog/repository/AuthorRepository.java
+/home/claudemir/work/projects/7bit/microservices/spring-blog/src/main/java/dev/danvega/blog/Application.java
+/home/claudemir/work/projects/7bit/microservices/spring-blog/src/main/java/dev/danvega/blog/model/dto/PostDetails.java
