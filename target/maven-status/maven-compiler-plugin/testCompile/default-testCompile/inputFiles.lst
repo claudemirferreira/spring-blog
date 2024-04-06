@@ -1,4 +1,4 @@
-/home/claudemir/work/projects/7bit/microservices/spring-blog/src/test/java/dev/danvega/blog/repository/AuthorRepositoryTest.java
-/home/claudemir/work/projects/7bit/microservices/spring-blog/src/test/java/dev/danvega/blog/controller/PostControllerTest.java
-/home/claudemir/work/projects/7bit/microservices/spring-blog/src/test/java/dev/danvega/blog/TestDataLoader.java
-/home/claudemir/work/projects/7bit/microservices/spring-blog/src/test/java/dev/danvega/blog/repository/PostRepositoryTest.java
+/home/claudemir/work/projects/7bit/spring-blog/src/test/java/dev/danvega/blog/repository/AuthorRepositoryTest.java
+/home/claudemir/work/projects/7bit/spring-blog/src/test/java/dev/danvega/blog/repository/PostRepositoryTest.java
+/home/claudemir/work/projects/7bit/spring-blog/src/test/java/dev/danvega/blog/controller/PostControllerTest.java
+/home/claudemir/work/projects/7bit/spring-blog/src/test/java/dev/danvega/blog/TestDataLoader.java
